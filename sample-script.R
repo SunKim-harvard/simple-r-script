@@ -10,5 +10,3 @@
 # read in the sample data -------------------------------------
 data <- read.csv('data.csv')
 
-
-# calculate summary statistics --------------------------------
